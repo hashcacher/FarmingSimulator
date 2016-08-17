@@ -1,0 +1,8 @@
+You start with Dirt
+
+Dirt near Water -> grass
+Grass + poop -> flower
+Flower + light -> ??points??
+
+day-night cycles
+fun blocks underneath the ground
